@@ -1,0 +1,10 @@
+com/codegym/model/Product.java
+ com.codegym.model.Product
+com/codegym/service/IProductService.java
+ com.codegym.service.IProductService
+com/codegym/service/IGeneralService.java
+ com.codegym.service.IGeneralService
+com/codegym/service/ProductService.java
+ com.codegym.service.ProductService
+com/codegym/controller/ProductServlet.java
+ com.codegym.controller.ProductServlet
